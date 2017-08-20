@@ -1,6 +1,6 @@
 轻量级的博客，采用的opp模式设计的,核心mvc思想,比较简洁，适合于喜欢简洁性的使用者<br />
 
-后台权限管理平台演示地址：http://www.aehyok.com:1281/User/Login<br />
+后台权限管理平台演示地址：https://www.phpadd.com/<br />
 
 用户名：aehyok  密码：123456<br />
 
@@ -18,7 +18,7 @@ Controller（控制器）是应用程序中处理用户交互的部分。<br />
 　　通常控制器负责从视图读取数据，控制用户输入，并向模型发送数据。<br />
 
 
-个人网站地址：http://www.aehyok.com。<br />
+个人网站地址：https://www.phpadd.com/<br />
 
 
 网站采用开发技术如下：<br />
